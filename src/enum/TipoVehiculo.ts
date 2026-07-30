@@ -1,0 +1,1 @@
+export type TipoVehiculo = 'Sedan' | 'SUV' | 'Camioneta' | 'Deportivo' | `Pickup`| `Bicicleta`;

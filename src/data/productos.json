@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tele",
+        "descripcion": "Televisor de 80\" marca Samsung",
+        "precio": 2500,
+        "stock": 300,
+        "categoria": "OTROS"
+    },
+    {
+        "id": 2,
+        "nombre": "Estufa",
+        "descripcion": "Estufa de gas marca LG con Horno",
+        "precio": 18000,
+        "stock": 500,
+        "categoria": "OTROS"
+    },
+    {
+        "id": 3,
+        "nombre": "Estufa",
+        "descripcion": "Estufa de gas marca LG con Horno",
+        "precio": 18000,
+        "stock": 500,
+        "categoria": "Hogar"
+    }
+]

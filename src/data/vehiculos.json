@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Prado",
+        "anio": 2026,
+        "color": "Negro",
+        "placa": "P265OPR",
+        "tipo": "CAMIONETA"
+    },
+    {
+        "id": 2,
+        "marca": "Toyota",
+        "modelo": "Hilux",
+        "anio": 2026,
+        "color": "Negro",
+        "placa": "P25OPR",
+        "tipo": "Pickup"
+    }
+]

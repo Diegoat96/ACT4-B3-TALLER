@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diego",
+        "apellido": "Velásquez",
+        "edad": 18,
+        "correo": "diego@gmail.com",
+        "contrasena": "Diego1234",
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Mario",
+        "apellido": "Velásquez",
+        "edad": 20,
+        "correo": "mario@gmail.com",
+        "contrasena": "Mario123",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "Angel",
+        "apellido": "Cardona",
+        "edad": 20,
+        "correo": "angel@gmail.com",
+        "contrasena": "Angel123",
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    }
+]
